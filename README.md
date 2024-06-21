@@ -5,6 +5,6 @@ Sou um entusiasta da tecnologia apaixonado por programação. Atualmente trabalh
 
 ## Habilidades
 - Linguagens de Programação: C#, Python.
-- Outras habilidades: Git, SQL, Excel, HTML, CSS.
+- Outras habilidades: Git, SQL, Pacote Office.
 
 
