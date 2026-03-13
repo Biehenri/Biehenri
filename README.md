@@ -19,7 +19,7 @@
 
 ## 📊 Estatísticas
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Biehenri&show_icons=true&theme=radical)
 
 ## 📫 Contato
 
