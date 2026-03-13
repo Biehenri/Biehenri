@@ -23,5 +23,5 @@
 
 ## 📫 Contato
 
-- LinkedIn: (https://www.linkedin.com/in/gabrielhenrique22/)
+- LinkedIn: https://www.linkedin.com/in/gabrielhenrique22/
 - Email: gabriel.ghsworking@gmail.com
